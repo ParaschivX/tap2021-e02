@@ -1,0 +1,4 @@
+C:\Users\drobo\Desktop\C notes\ParaschivX\docs\Project 1\bin\Debug\Project 1.dll
+C:\Users\drobo\Desktop\C notes\ParaschivX\docs\Project 1\bin\Debug\Project 1.pdb
+C:\Users\drobo\Desktop\C notes\ParaschivX\docs\Project 1\obj\Debug\Project 1.dll
+C:\Users\drobo\Desktop\C notes\ParaschivX\docs\Project 1\obj\Debug\Project 1.pdb
